@@ -1,1 +1,0 @@
-# docker-hr-frontend
