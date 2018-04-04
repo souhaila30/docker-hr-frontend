@@ -4,7 +4,7 @@ import {
   Table,
   TableBody,
   TableHeader,
-  TableColumn,
+  TableHeaderColumn,
   TableRow,
   TableRowColumn,
 } from 'material-ui/Table';
@@ -14,17 +14,16 @@ const TableOutput = () => (
     <TableHeader>
         <TableRow>
             <TableHeaderColumn>Time</TableHeaderColumn>
-            <TableHeaderColumn>Heart Rate</TableHeaderColumn>
+            <TableHeaderColumn>HeartRate</TableHeaderColumn>
         </TableRow>
     </TableHeader>
-    
     <TableBody>
         <TableRow>
-            <TableRowColumn>Time</TableRowColumn>
-            <TableRowColumn>Heart Rate</TableRowColumn>
+            <TableRowColumn>10</TableRowColumn>
+            <TableRowColumn>60</TableRowColumn>
         </TableRow>
-      <TableRow>
     </TableBody>
   </Table>
 );
-export default TableOutput
+
+export default TableOutput;
