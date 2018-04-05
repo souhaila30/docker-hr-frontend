@@ -9,7 +9,18 @@ import {
   TableRowColumn,
 } from 'material-ui/Table';
 
-const TableOutput = () => (
+export default class Table extends Component {
+  constructor() {
+    super();
+    this.state = {
+      "tabledata":[
+        [60,'1pm'],
+        [80,'2pm'],
+      ],
+    };
+  }
+
+
   <Table>
     <TableHeader>
         <TableRow>
@@ -26,4 +37,4 @@ const TableOutput = () => (
   </Table>
 );
 
-export default TableOutput;
+
