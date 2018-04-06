@@ -6,6 +6,11 @@ Course: Medical Design Software
 
 Goal: 
 Create a front end platform to pull heart rate and associated time based on the user's email. 
+This repository builds on an existing repository https://github.com/souhaila30/heart_rate_databases_introduction
 
-
-
+Steps:
+1. npm install
+2. Install dependencies in requirements.txt from https://github.com/souhaila30/heart_rate_databases_introduction
+3. Run web_server.py in flask from https://github.com/souhaila30/heart_rate_databases_introduction
+4. Run mongodb on docker
+5. npm start run
