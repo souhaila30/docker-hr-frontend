@@ -23,5 +23,6 @@ After you enter an email address associated with a user in the database, the tab
 Table:
 <img src="hr_table.png" height="500px"/> 
 
+
 Chart:
 <img src="hr_chart.png" height="500px"/> 
