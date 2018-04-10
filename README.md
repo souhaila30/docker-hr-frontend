@@ -20,9 +20,6 @@ After you complete these steps, you should see this page in your browser.
 
 After you enter an email address associated with a user in the database, the table and chart will populate with the heart rate times and heart rates measurements.
 
-Table:
 <img src="hr_table.png" height="500px"/> 
 
-
-Chart:
 <img src="hr_chart.png" height="500px"/> 
