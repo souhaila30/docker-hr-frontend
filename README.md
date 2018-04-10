@@ -1,5 +1,5 @@
 # Heart Rate Viewer
-[React](https://reactjs.org/) &middot; [GitHub license](https://github.com/souhaila30/doctor-hr-frontend/blob/master/LICENSE) &middot; [npm version](https://www.npmjs.com/)
+[React](https://reactjs.org/) 
 
 Developed by: Souhaila Noor
 
