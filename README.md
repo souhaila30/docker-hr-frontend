@@ -12,5 +12,8 @@ Steps:
 1. npm install
 2. Install dependencies in requirements.txt from https://github.com/souhaila30/heart_rate_databases_introduction
 3. Run web_server.py in flask from https://github.com/souhaila30/heart_rate_databases_introduction
-4. Run mongodb on docker
+4. Run mongodb on dockerhr_
 5. npm start run
+
+After you complete these steps, you should see this in your browser. 
+<img src="hr_page.png" height="300px"/> 
