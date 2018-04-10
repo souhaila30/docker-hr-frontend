@@ -16,4 +16,4 @@ Steps:
 5. npm start run
 
 After you complete these steps, you should see this in your browser. 
-<img src="img/hr_page.png" height="300px"/> 
+<img src="hr_page.png" height="300px"/> 
