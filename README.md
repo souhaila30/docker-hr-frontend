@@ -16,4 +16,9 @@ Steps:
 5. npm start run
 
 After you complete these steps, you should see this in your browser. 
+
 <img src="hr_page.png" height="300px"/> 
+
+After you enter an email address associated with a user in the database, the table and chart will populate with the heart rate times and heart rates measurements.
+
+<img src="hr_table.png" height="300px"/> , <img src="hr_chart.png" height="300px"/> 
