@@ -1,6 +1,5 @@
-# [React](https://reactjs.org/) &middot; [![GitHub license]() [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) 
-
 # Heart Rate Viewer
+[React](https://reactjs.org/) &middot; [![GitHub license](https://github.com/souhaila30/doctor-hr-frontend/blob/master/LICENSE) [![npm version](https://www.npmjs.com/)
 
 Developed by: Souhaila Noor
 
