@@ -5,8 +5,8 @@ Developed by: Souhaila Noor
 
 Course: Medical Design Software
 
-I created a webpage that pulls information from a database by using React-js. This webpage uses material-ui components. 
-This repository builds on an [heart rate database repository](https://github.com/souhaila30/heart_rate_databases_introduction) where the database is created and populated by using flask and mongodb. 
+I created a webpage that pulls information from a database using React-js. This webpage uses material-ui components. 
+This repository builds on an [heart rate database repository](https://github.com/souhaila30/heart_rate_databases_introduction) where the database is created and populated using flask and mongodb. 
 
 Steps:
 1. npm install
